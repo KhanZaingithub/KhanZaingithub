@@ -1,5 +1,6 @@
 
-<h1 align="center">Zainul Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h`>
+
+<h1 align="center">Zainul Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
 <!--
 **KhanZaingithub/KhanZaingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
