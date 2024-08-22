@@ -27,14 +27,16 @@
 </p>
 
 
-
-<p>
-  <img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhanZaingithub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KhanZaingithub&theme=algolia"/>
-   
-</p>
-
+<table>
+  <tr>
+    <td>
+       <img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhanZaingithub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+       <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KhanZaingithub&theme=algolia"/>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🛠️ My Skills</h2>
 
