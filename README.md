@@ -38,12 +38,12 @@
   </tr>
 </table>
 
-<h2 align="center">🛠️ My Skills</h2>
+<h2 align="start"> 🎯  My Skills</h2>
 
-<h3 align="center">👉 Programming languages
+<h3 align="start">👉 Programming languages
 </h3>
 
-<p align="center"> 
+<p align="start"> 
    &emsp; 
    <img alt="C" src="https://img.shields.io/badge/C%20-%2300AEFF.svg?logo=c&logoColor=white">
    &emsp; 
@@ -55,5 +55,50 @@
   
 </p>
 
+
+<h3 align="start">👉 Web Development
+</h3>
+
+<p align="start"> 
+   &emsp; 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+   &emsp; 
+ <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+   &emsp; 
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+   &emsp; 
+   <img alt="React" src="https://img.shields.io/badge/Reactjs-%230088CC.svg?style=flat&logo=react&logoColor=white"/>
+   &emsp; 
+   <img alt="React" src="https://img.shields.io/badge/Reactjs-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white"/>
+  
+</p>
+
+<h3 align="start">👉 Databases
+</h3>
+
+<p align="start"> 
+   &emsp; 
+   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&llogo=mysql&logoColor=white">
+   &emsp; 
+  
+</p>
+
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+</p>
+
+<hr/>
+
+* Credit: [Zainul Khan](https://github.com/KhanZaingithub)
+* Last Edited on: 22/08/20224
 
 
