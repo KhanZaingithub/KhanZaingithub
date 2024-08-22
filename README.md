@@ -1,10 +1,10 @@
 
-<h1 align="center"> $${\color{#00E7F5}Zainul \space \color{#00E7F5}Khan}$$ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
+<h1 align="center"> $${\color{#00AEFF}Zainul \space \color{#00AEFF}Khan}$$ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20web%20developer;1%20year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00E7F5&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20web%20developer;1%20year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00AEFF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/zainul-khan-67232b263/"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/KhanZaingithub/images/blob/main/linkedin.png"/></a>
