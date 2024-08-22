@@ -17,7 +17,7 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center"> 🚀 GitHub Stats</h2>
 
 
 <p align="center">
