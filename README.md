@@ -1,5 +1,5 @@
 
-<h2 align="start">Hi , I'm Zainul Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
+<h2 align="center">Zainul Khan </h2>
 
 <!--
 **KhanZaingithub/KhanZaingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
